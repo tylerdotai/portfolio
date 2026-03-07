@@ -2,7 +2,7 @@
 
 Building AI agents and automating everything.
 
-🌐 **Live Terminal**: https://tylerdotai.netlify.app
+🌐 **Live Terminal**: https://tylerdotai.github.io/personal-site
 
 ## About Me
 
