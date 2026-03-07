@@ -2,6 +2,8 @@
 
 Building AI agents and automating everything.
 
+🌐 **Live Terminal**: https://tylerdotai.netlify.app
+
 ## About Me
 
 I started building PCs in 2015, got into IT in 2021, and have been leveraging AI and OpenClaw to help me develop and vibe code ever since. Not a developer by trade, but I build like one.
