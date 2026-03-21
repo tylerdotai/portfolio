@@ -2,28 +2,35 @@
 
 Portfolio hub for Tyler Delano featuring current products, experiments, and AI-native projects.
 
-## Status
+[![Location](https://img.shields.io/badge/Location-Texas-blue?style=flat-square)](#)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Products-orange?style=flat-square)](#)
 
-- Active portfolio repo
-- Currently functions as a project index and narrative overview
-- Repo content is README-first and does not yet include a dedicated site codebase
+## Live Demo
+
+- Repository: `https://github.com/tylerdotai/portfolio`
 
 ## About
 
 This repository is a portfolio snapshot of Tyler Delano's work across AI products, tooling, homelab systems, and autonomous agent experiments. It highlights flagship projects, personal background, and the broader direction behind the work.
 
-## Current Scope
+## Tech Stack
 
+| Layer | Technology |
+|-------|------------|
+| Format | Markdown |
+| Presentation | GitHub README |
+| Links | GitHub repos and public product URLs |
+
+## Features
+
+### Portfolio Content
 - Featured project summaries for Flume, Titan AI, and Titan Autoresearch
-- Short personal background and builder timeline
-- Skills and links section
-- Lightweight portfolio overview for GitHub visitors
+- Personal background and builder timeline
+- Skills and links section for GitHub visitors
 
-## Built With
-
-- Markdown
-- Shields.io badges
-- GitHub-hosted project links
+### Repo Purpose
+- Lightweight portfolio overview without a full site codebase
+- Easy-to-update landing page for current public work
 
 ## Project Structure
 
@@ -44,20 +51,20 @@ git clone https://github.com/tylerdotai/portfolio.git
 cd portfolio
 ```
 
-## Development
-
-Update `README.md` as projects, links, and narrative change over time.
-
 ## Deployment
 
 This repo is currently maintained as a GitHub portfolio/index rather than a standalone deployable app.
 
 - Repository: `https://github.com/tylerdotai/portfolio`
 
+## Usage
+
+Update `README.md` as projects, links, and narrative change over time.
+
 ## Current Limitations
 
 - There is no dedicated site code or deployment pipeline in the repo today
-- The previous README mixed personal-profile copy with repo-level documentation
+- The earlier README mixed personal-profile copy with repo-level documentation
 - Project coverage is selective rather than exhaustive
 
 ## Roadmap
