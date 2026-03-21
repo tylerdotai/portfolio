@@ -1,82 +1,72 @@
-# Tyler Bueno
+# Portfolio
 
-🤖 Building AI agents and automating everything.
+Portfolio hub for Tyler Delano featuring current products, experiments, and AI-native projects.
 
-![IT Support](https://img.shields.io/badge/IT_Support-L3_Amazon-333333)
-![Location](https://img.shields.io/badge/Location-Texas-blue)
-![Homelab](https://img.shields.io/badge/Homelab-Active-orange)
+## Status
 
-> Not a developer by trade, but I build like one.
+- Active portfolio repo
+- Currently functions as a project index and narrative overview
+- Repo content is README-first and does not yet include a dedicated site codebase
 
 ## About
 
-I started building PCs in 2015, got into IT in 2021, and have been leveraging AI and OpenClaw to help me develop and vibe code ever since.
+This repository is a portfolio snapshot of Tyler Delano's work across AI products, tooling, homelab systems, and autonomous agent experiments. It highlights flagship projects, personal background, and the broader direction behind the work.
 
-## Timeline
+## Current Scope
 
-| Year | Milestone |
-|------|-----------|
-| 2015 | Built my first PC |
-| 2021 | Got into IT |
-| 2024 | Started homelab journey |
-| 2026 | Launched Flume |
+- Featured project summaries for Flume, Titan AI, and Titan Autoresearch
+- Short personal background and builder timeline
+- Skills and links section
+- Lightweight portfolio overview for GitHub visitors
 
-## Projects
+## Built With
 
-### Flume 🗂️
+- Markdown
+- Shields.io badges
+- GitHub-hosted project links
 
-A task manager for humans and AI agents. Like Trello but with superpowers.
+## Project Structure
 
-- Beautiful Next.js frontend with light theme
-- FastAPI backend with JWT + API key auth
-- Real-time updates via WebSockets
-- Structured task format (What/Why/How/When) for AI agents
-- AI agents can pick up tasks autonomously via API
-- Webhooks for external integrations
-- Email verification
-- Mobile responsive + PWA support
+```text
+README.md    Portfolio overview and project index
+```
 
-**Stack:** Next.js 15, FastAPI, PostgreSQL, Socket.IO
+## Getting Started
 
-[Live](https://flume.sh) · [API Docs](https://flume.sh/docs/agent) · [GitHub](https://github.com/tylerdotai/flume)
+### Prerequisites
 
-### Titan AI ⚡
+- A GitHub account or browser to view the portfolio
 
-Local AI code generation platform with FastAPI and local LLMs.
+### Installation
 
-- FastAPI backend with SQLite
-- Real-time streaming code generation
-- Task management with auth
+```bash
+git clone https://github.com/tylerdotai/portfolio.git
+cd portfolio
+```
 
-**Stack:** Python, SQLite, Svelte
+## Development
 
-[GitHub](https://github.com/tylerdotai/titan-ai)
+Update `README.md` as projects, links, and narrative change over time.
 
-### Titan Autoresearch 🔬
+## Deployment
 
-Autonomous LLM research on AMD Strix Halo.
+This repo is currently maintained as a GitHub portfolio/index rather than a standalone deployable app.
 
-- Trains up to 1.9B params locally
-- Automated hyperparameter optimization
-- Qwen3.5-0.8B as research agent
+- Repository: `https://github.com/tylerdotai/portfolio`
 
-**Hardware:** GMKTec Evo X2 (Ryzen AI Max+ 395, 128GB RAM)
+## Current Limitations
 
-[GitHub](https://github.com/tylerdotai/titan-autoresearch)
+- There is no dedicated site code or deployment pipeline in the repo today
+- The previous README mixed personal-profile copy with repo-level documentation
+- Project coverage is selective rather than exhaustive
 
-## Skills
+## Roadmap
 
-- 🤖 AI Agent Development
-- 🐍 Python / FastAPI
-- ⚛️ Next.js / React
-- 🏠 Homelab Infrastructure
-- 🔧 Automation & Scripting
+- Add a dedicated portfolio site or generated project catalog
+- Expand coverage to more public repos and launches
+- Add screenshots, live links, and case-study style summaries
+- Keep project descriptions aligned with the latest repos and products
 
-## Connect
+## License
 
-- Twitter: [@tylerdotai](https://x.com/tylerdotai)
-- GitHub: [@tylerdotai](https://github.com/tylerdotai)
-
-## The Vision
-
-Building toward AGI, one GPU at a time.
+No license has been added yet.
